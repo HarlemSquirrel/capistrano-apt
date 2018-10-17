@@ -1,6 +1,19 @@
 # capistrano-apt
 Aptitude utilities for Capistrano
 
+## Install
+
+    gem install capistrano-apt
+
+## Require in Capfile
+
+```ruby
+# Capfile
+# ...
+require 'capistrano/apt'
+# ...
+```
+
 ## Tasks
 
 ```

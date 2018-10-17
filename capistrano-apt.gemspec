@@ -10,4 +10,7 @@ Gem::Specification.new do |s|
   s.homepage    =
     'https://github.com/HarlemSquirrel/capistrano-apt'
   s.license       = 'MIT'
+
+  gem.add_dependency 'capistrano', '~> 3.0'
+  gem.add_dependency 'sshkit', '~> 1.2'
 end

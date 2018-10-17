@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'capistrano-apt'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2018-10-17'
   s.summary     = "Aptitude utilities for Capistrano"
   s.description = "Aptitude utilities for Capistrano"

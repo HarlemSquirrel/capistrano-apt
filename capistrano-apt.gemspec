@@ -2,8 +2,8 @@ Gem::Specification.new do |s|
   s.name        = 'capistrano-apt'
   s.version     = '0.0.3'
   s.date        = '2018-10-17'
-  s.summary     = "Aptitude utilities for Capistrano"
-  s.description = "Aptitude utilities for Capistrano"
+  s.summary     = "APT utilities for Capistrano"
+  s.description = "APT utilities for Capistrano"
   s.authors     = ["Kevin McCormack"]
   s.email       = 'harlemsquirrel@gmail.com'
   s.files       = `git ls-files`.split($/)

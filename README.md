@@ -1,5 +1,5 @@
 # capistrano-apt
-Aptitude utilities for Capistrano
+[APT](https://wiki.debian.org/Apt) utilities for [Capistrano](https://capistranorb.com/)
 
 ## Install
 
